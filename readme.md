@@ -1,5 +1,5 @@
-# CA-Projects-template-submission-repo
-## Overview
+
+## Project Overview
 Start-ups are usually newly established companies or organizations in their early stages of development. Therefore, they are usually associated with many uncertainties and risks for their limited resources. Hence, they require significant funding and support to get off the ground. Investors provide start-ups and other ventures with the capital, popularly known as funding, to think big, grow rich, and leave a lasting impact. However, not all start-ups can thrive and flourish even after the funding. This has resulted in the question of what is necessary for a start-up to flourish. A common cliche is that Ideas, creativity, and execution are necessary for a start-up to flourish, but are they enough?
 
 ## Introduction
@@ -28,5 +28,5 @@ Stage: Round of funding reached
 
 ## Author
 Newton Kimathi
-...
+
 
