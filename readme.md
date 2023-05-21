@@ -36,7 +36,7 @@ Matplotlib
 summarytools
 
  warnings
-
+  
 ## Findings
 1. Funding Growth: The amount of funding received by Indian start-ups has been on a steady rise, indicating a growing interest in the ecosystem. This presents a great opportunity for entrepreneurs and investors looking to tap into the Indian market.
 
