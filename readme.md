@@ -26,10 +26,15 @@ Stage: Round of funding
 To run this project successfully, one needs to install and import the following dependencies:
 
 NumPy
+
 Pandas
+
 Seaborn
+
 Matplotlib
+
 summarytools
+
  warnings
 
 
