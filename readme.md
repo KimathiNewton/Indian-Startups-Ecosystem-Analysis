@@ -29,6 +29,10 @@ NumPy
 Pandas
 Seaborn
 Matplotlib
+summarytools
+ warnings
+
+
 
 
 ## Summary
