@@ -20,7 +20,16 @@ Investor: Investors
 
 Amount($): Raised fund
 
-Stage: Round of funding reached
+Stage: Round of funding
+
+## Dependencies 
+To run this project successfully, one needs to install and import the following dependencies:
+
+NumPy
+Pandas
+Seaborn
+Matplotlib
+
 
 ## Summary
 | Code      | Name                                  | Published Article |  Deployed App |
